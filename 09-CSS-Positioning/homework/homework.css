@@ -58,7 +58,23 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
     align-items: center;
 
 }
+#elementoUno{
+    position: absolute;
+    left: 0px;
+
+}
 #elementoDos{
     position: absolute;
+    left:100px;
+    bottom: 100px;
+}
+#elementoTres{
+    position: absolute;
+    right: 100px;
+    top: 100px;
+}
+#elementoCuatro{
+    position: absolute;
+    top:0px;
     right:0px;
 }
