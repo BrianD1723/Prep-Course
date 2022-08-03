@@ -1,0 +1,2 @@
+Vairables: Almacena el valor de algo, que se usara despues.
+Strings: Cualquier texto entre comillas.
